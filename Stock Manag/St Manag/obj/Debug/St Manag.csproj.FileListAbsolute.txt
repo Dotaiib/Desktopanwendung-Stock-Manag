@@ -1,0 +1,40 @@
+c:\users\m.richy\documents\visual studio 2015\Projects\St Manag\St Manag\bin\Debug\St Manag.exe.config
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\bin\Debug\St Manag.exe
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\bin\Debug\St Manag.pdb
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St Manag.csprojResolveAssemblyReference.cache
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St_Manag.Form1.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St_Manag.Form2.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St_Manag.Properties.Resources.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St Manag.csproj.GenerateResource.Cache
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St Manag.exe
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\St Manag\St Manag\obj\Debug\St Manag.pdb
+C:\Users\m.richy\documents\visual studio 2015\Projects\St Manag\St Manag\obj\Debug\St_Manag.Form3.resources
+C:\Users\m.richy\documents\visual studio 2015\Projects\St Manag\St Manag\obj\Debug\St_Manag.Form4.resources
+C:\Users\m.richy\documents\visual studio 2015\Projects\St Manag\St Manag\obj\Debug\St_Manag.Form5.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\bin\Debug\St Manag.exe.config
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St Manag.exe
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St Manag.pdb
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\bin\Debug\St Manag.exe
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\bin\Debug\St Manag.pdb
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St Manag.csprojResolveAssemblyReference.cache
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St_Manag.Form1.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St_Manag.Form2.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St_Manag.Form3.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St_Manag.Form4.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St_Manag.Form5.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St_Manag.Properties.Resources.resources
+C:\Users\m.richy\Documents\Visual Studio 2015\Projects\Stock Manag\St Manag\obj\Debug\St Manag.csproj.GenerateResource.Cache
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\bin\Debug\St Manag.exe.config
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\bin\Debug\St Manag.exe
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\bin\Debug\St Manag.pdb
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St Manag.csprojAssemblyReference.cache
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St_Manag.Form1.resources
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St_Manag.Form2.resources
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St_Manag.Form3.resources
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St_Manag.Form4.resources
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St_Manag.Form5.resources
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St_Manag.Properties.Resources.resources
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St Manag.csproj.GenerateResource.cache
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St Manag.csproj.CoreCompileInputs.cache
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St Manag.exe
+C:\Users\m.richy\source\repos\Stock Manag\St Manag\obj\Debug\St Manag.pdb
